@@ -1,0 +1,7 @@
+tensorflow >= 2.10
+numpy >= 1.19.5
+opencv-python
+streamlit >= 1.10
+matplotlib
+pillow
+scikit-learn
